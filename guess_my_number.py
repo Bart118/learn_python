@@ -6,6 +6,7 @@
 #or right on the money
 #the player will have a limited number of guesses
 
+#to do: add in a method for the computer to play as well
 
 #imports
 import random
